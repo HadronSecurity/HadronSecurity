@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadronsecurity&theme=default" alt="hadronsecurity" /></p>
 
-![reaktör](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/43ff2730-aada-40a8-93fa-b7cb7ca74c50) ![analiz](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/18b86d4b-807c-4b94-921c-ca6a4a5ff8f7)
+![analiz](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/18b86d4b-807c-4b94-921c-ca6a4a5ff8f7)
