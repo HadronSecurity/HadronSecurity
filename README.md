@@ -1,17 +1,11 @@
 <h1 align="center">Merhaba 👋, ben Hadron Security</h1>
 <h3 align="center">Masaüstü Uygulama Geliştiricisi</h3>
 
-<p align="left"> <img src="https: //komarev.com/ghpvc/?username=hadronsecurity&label=Profile%20views&color=0e75b6&style=flat" alt = "hadronsecurity" /> </p>
+- 🔭 Hadron Güvenlik Programını Geliştiriyorum **Hadron Security**
 
-<p align = "left"> <a href = "https://github .com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=hadronsecurity" alt = "hadronsecurity" /></a> < /p>
-
-<p align = "left"> <a href = "https://twitter.com/" target = "blank"><img src = "https://img.shields.io/twitter/follow/ ?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 Hadron Güvenlik Programını Geliştiriyorum **Hadron Güvenliği**
-
-<h3 align="left">Bağlan ben:</h3>
-<p align = "left">
-<a href = "https://www.youtube.com/c/cyberclub758" target = "blank"><img align = "center" src = "https" ://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt = "cyberclub758" height = "30" genişlik = "40" /> </a>
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/cyberclub758" target="blank">< img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt = "cyberclub758" height = "30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
@@ -22,4 +16,3 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadronsecurity&show_icons=true&title_color=100f0f&text_color=050505&bg_color=0a0a0a&locale=en" alt ="hadronsecurity" /></p>
 
 <p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=hadronsecurity&theme=default" alt = "hadronsecurity " /></p>
-
