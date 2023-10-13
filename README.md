@@ -4,7 +4,7 @@
 ![Hadron Bilgi](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/39af76e7-42d3-4ac0-b3de-ce9b4b974a53)
 
 - 🔭 I am Developing the Hadron Security Program **Hadron Security**
-![Uploading Hadron Bilgi.jpg…]()
+
 
 - 🌱 I'm Learning C C++ Delphi **.Net Fremwork**
 
