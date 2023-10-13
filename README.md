@@ -2,6 +2,8 @@
 <h3 align="center">Desktop Application Developer</h3>
 
 ![Hadron Bilgi](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/39af76e7-42d3-4ac0-b3de-ce9b4b974a53)
+![analiz](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/489692c8-25c1-4ab4-9748-2a349b3ca09a)
+![reaktör](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/754c4d89-abdd-4723-b21b-df367a8737f0)
 
 - 🔭 I am Developing the Hadron Security Program **Hadron Security**
 
