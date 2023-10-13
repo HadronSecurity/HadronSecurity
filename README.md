@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hadron Security</h1>
 <h3 align="center">Desktop Application Developer</h3>
 
-![logo](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/471ba7f9-861d-4bac-8774-ec96841a3ff0)
+![Hadron Bilgi](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/39af76e7-42d3-4ac0-b3de-ce9b4b974a53)
 
 - 🔭 I am Developing the Hadron Security Program **Hadron Security**
+![Uploading Hadron Bilgi.jpg…]()
 
 - 🌱 I'm Learning C C++ Delphi **.Net Fremwork**
 
