@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadron Security</h1>
 <h3 align="center">Desktop Application Developer</h3>
-![Ekran görüntüsü 2023-10-12 210028](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/4523579f-2e61-4013-bf36-8b5bfab90501)
+
+![logo](https://github.com/HadronSecurity/HadronSecurity/assets/147801258/471ba7f9-861d-4bac-8774-ec96841a3ff0)
 
 - 🔭 I am Developing the Hadron Security Program **Hadron Security**
 
